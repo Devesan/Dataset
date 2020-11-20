@@ -1,0 +1,352 @@
+[
+  {
+    "overall": 1,
+    "State": "Wyoming",
+    "gunsPerCapita": "229.2400",
+    "gunsRegistered": 132806,
+    "Pop": 567025
+  },
+  {
+    "overall": 3,
+    "State": "New Hampshire",
+    "gunsPerCapita": "46.7600",
+    "gunsRegistered": 64135,
+    "Pop": 1371250
+  },
+  {
+    "overall": 4,
+    "State": "New Mexico",
+    "gunsPerCapita": "46.7300",
+    "gunsRegistered": 97580,
+    "Pop": 2096640
+  },
+  {
+    "overall": 5,
+    "State": "Virginia",
+    "gunsPerCapita": "36.3400",
+    "gunsRegistered": 307822,
+    "Pop": 8626210
+  },
+  {
+    "overall": 6,
+    "State": "Alabama",
+    "gunsPerCapita": "33.1500",
+    "gunsRegistered": 161641,
+    "Pop": 4908620
+  },
+  {
+    "overall": 7,
+    "State": "Idaho",
+    "gunsPerCapita": "28.8600",
+    "gunsRegistered": 49566,
+    "Pop": 1826160
+  },
+  {
+    "overall": 8,
+    "State": "Arkansas",
+    "gunsPerCapita": "26.5700",
+    "gunsRegistered": 79841,
+    "Pop": 3039000
+  },
+  {
+    "overall": 9,
+    "State": "Nevada",
+    "gunsPerCapita": "25.6400",
+    "gunsRegistered": 76888,
+    "Pop": 3139660
+  },
+  {
+    "overall": 10,
+    "State": "Arizona",
+    "gunsPerCapita": "25.6100",
+    "gunsRegistered": 179738,
+    "Pop": 7378490
+  },
+  {
+    "overall": 11,
+    "State": "Louisiana",
+    "gunsPerCapita": "24.9400",
+    "gunsRegistered": 116831,
+    "Pop": 4645180
+  },
+  {
+    "overall": 12,
+    "State": "South Dakota",
+    "gunsPerCapita": "24.2900",
+    "gunsRegistered": 21130,
+    "Pop": 903027
+  },
+  {
+    "overall": 13,
+    "State": "Utah",
+    "gunsPerCapita": "23.4800",
+    "gunsRegistered": 72856,
+    "Pop": 3282120
+  },
+  {
+    "overall": 14,
+    "State": "Connecticut",
+    "gunsPerCapita": "22.9600",
+    "gunsRegistered": 82400,
+    "Pop": 3563080
+  },
+  {
+    "overall": 15,
+    "State": "Alaska",
+    "gunsPerCapita": "21.3800",
+    "gunsRegistered": 15824,
+    "Pop": 734002
+  },
+  {
+    "overall": 16,
+    "State": "Montana",
+    "gunsPerCapita": "21.0600",
+    "gunsRegistered": 22133,
+    "Pop": 1086760
+  },
+  {
+    "overall": 17,
+    "State": "South Carolina",
+    "gunsPerCapita": "21.0100",
+    "gunsRegistered": 105601,
+    "Pop": 5210100
+  },
+  {
+    "overall": 18,
+    "State": "Texas",
+    "gunsPerCapita": "20.7900",
+    "gunsRegistered": 588696,
+    "Pop": 29472300
+  },
+  {
+    "overall": 19,
+    "State": "West Virginia",
+    "gunsPerCapita": "19.4200",
+    "gunsRegistered": 35264,
+    "Pop": 1778070
+  },
+  {
+    "overall": 20,
+    "State": "Pennsylvania",
+    "gunsPerCapita": "18.4500",
+    "gunsRegistered": 236377,
+    "Pop": 12820900
+  },
+  {
+    "overall": 21,
+    "State": "Georgia",
+    "gunsPerCapita": "18.2200",
+    "gunsRegistered": 190050,
+    "Pop": 10736100
+  },
+  {
+    "overall": 22,
+    "State": "Kentucky",
+    "gunsPerCapita": "18.2000",
+    "gunsRegistered": 81068,
+    "Pop": 4499690
+  },
+  {
+    "overall": 23,
+    "State": "Oklahoma",
+    "gunsPerCapita": "18.1300",
+    "gunsRegistered": 71269,
+    "Pop": 3954820
+  },
+  {
+    "overall": 24,
+    "State": "Kansas",
+    "gunsPerCapita": "18.0600",
+    "gunsRegistered": 52634,
+    "Pop": 2910360
+  },
+  {
+    "overall": 25,
+    "State": "North Dakota",
+    "gunsPerCapita": "17.5600",
+    "gunsRegistered": 13272,
+    "Pop": 761723
+  },
+  {
+    "overall": 26,
+    "State": "Indiana",
+    "gunsPerCapita": "17.1000",
+    "gunsRegistered": 114019,
+    "Pop": 6745350
+  },
+  {
+    "overall": 27,
+    "State": "Maryland",
+    "gunsPerCapita": "17.0300",
+    "gunsRegistered": 103109,
+    "Pop": 6083120
+  },
+  {
+    "overall": 28,
+    "State": "Colorado",
+    "gunsPerCapita": "16.4800",
+    "gunsRegistered": 92435,
+    "Pop": 5845530
+  },
+  {
+    "overall": 29,
+    "State": "Florida",
+    "gunsPerCapita": "16.3500",
+    "gunsRegistered": 343288,
+    "Pop": 21993000
+  },
+  {
+    "overall": 30,
+    "State": "Ohio",
+    "gunsPerCapita": "14.8700",
+    "gunsRegistered": 173405,
+    "Pop": 11747700
+  },
+  {
+    "overall": 31,
+    "State": "North Carolina",
+    "gunsPerCapita": "14.8180",
+    "gunsRegistered": 152238,
+    "Pop": 10611900
+  },
+  {
+    "overall": 32,
+    "State": "Oregon",
+    "gunsPerCapita": "14.8160",
+    "gunsRegistered": 61383,
+    "Pop": 4301090
+  },
+  {
+    "overall": 33,
+    "State": "Tennessee",
+    "gunsPerCapita": "14.7600",
+    "gunsRegistered": 99159,
+    "Pop": 6897580
+  },
+  {
+    "overall": 34,
+    "State": "Minnesota",
+    "gunsPerCapita": "14.2200",
+    "gunsRegistered": 79307,
+    "Pop": 5700670
+  },
+  {
+    "overall": 35,
+    "State": "Washington",
+    "gunsPerCapita": "12.4000",
+    "gunsRegistered": 91835,
+    "Pop": 7797100
+  },
+  {
+    "overall": 36,
+    "State": "Missouri",
+    "gunsPerCapita": "11.9400",
+    "gunsRegistered": 72996,
+    "Pop": 6169270
+  },
+  {
+    "overall": 37,
+    "State": "Mississippi",
+    "gunsPerCapita": "11.8900",
+    "gunsRegistered": 35494,
+    "Pop": 2989260
+  },
+  {
+    "overall": 38,
+    "State": "Nebraska",
+    "gunsPerCapita": "11.5700",
+    "gunsRegistered": 22234,
+    "Pop": 1952570
+  },
+  {
+    "overall": 39,
+    "State": "Maine",
+    "gunsPerCapita": "11.5000",
+    "gunsRegistered": 15371,
+    "Pop": 1345790
+  },
+  {
+    "overall": 40,
+    "State": "Illinois",
+    "gunsPerCapita": "11.4400",
+    "gunsRegistered": 146487,
+    "Pop": 12659700
+  },
+  {
+    "overall": 41,
+    "State": "Wisconsin",
+    "gunsPerCapita": "11.1900",
+    "gunsRegistered": 64878,
+    "Pop": 5851750
+  },
+  {
+    "overall": 42,
+    "State": "Vermont",
+    "gunsPerCapita": "9.4100",
+    "gunsRegistered": 5872,
+    "Pop": 628061
+  },
+  {
+    "overall": 43,
+    "State": "Iowa",
+    "gunsPerCapita": "9.0500",
+    "gunsRegistered": 28494,
+    "Pop": 3179850
+  },
+  {
+    "overall": 44,
+    "State": "California",
+    "gunsPerCapita": "8.7100",
+    "gunsRegistered": 344622,
+    "Pop": 39937500
+  },
+  {
+    "overall": 45,
+    "State": "Michigan",
+    "gunsPerCapita": "6.5900",
+    "gunsRegistered": 65742,
+    "Pop": 10045000
+  },
+  {
+    "overall": 46,
+    "State": "New Jersey",
+    "gunsPerCapita": "6.3800",
+    "gunsRegistered": 57507,
+    "Pop": 8936570
+  },
+  {
+    "overall": 47,
+    "State": "Hawaii",
+    "gunsPerCapita": "5.5000",
+    "gunsRegistered": 7859,
+    "Pop": 1412690
+  },
+  {
+    "overall": 48,
+    "State": "Massachusetts",
+    "gunsPerCapita": "5.4100",
+    "gunsRegistered": 37152,
+    "Pop": 6976600
+  },
+  {
+    "overall": 49,
+    "State": "Delaware",
+    "gunsPerCapita": "5.0400",
+    "gunsRegistered": 4852,
+    "Pop": 982895
+  },
+  {
+    "overall": 50,
+    "State": "Rhode Island",
+    "gunsPerCapita": "3.9800",
+    "gunsRegistered": 37152,
+    "Pop": 1056160
+  },
+  {
+    "overall": 51,
+    "State": "New York",
+    "gunsPerCapita": "3.8300",
+    "gunsRegistered": 76207,
+    "Pop": 19440500
+  }
+]
